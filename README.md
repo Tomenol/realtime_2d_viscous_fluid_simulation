@@ -5,5 +5,6 @@ By taking advantage of the semi Lagrangian method, we can easily visualize the m
 
 # Results
 
-![image](https://user-images.githubusercontent.com/54234406/154796914-0d9025fa-c491-4f25-8910-1ee681508182.png)
+![image](https://user-images.githubusercontent.com/54234406/154797098-f2a46bcf-4818-41af-a81e-24c077a4633c.png)
+
 
